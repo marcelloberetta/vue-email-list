@@ -1,0 +1,11 @@
+#root{
+   text-align: center;
+}
+
+ul{
+   list-style-type: none;
+}
+
+ul > li{
+   padding-top: 10px;
+}
